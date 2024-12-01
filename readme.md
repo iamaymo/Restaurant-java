@@ -48,7 +48,7 @@
 ## لقطات شاشة
 
 <p align="center" dir="rtl">
-  <!-- <img src="https://github.com/iamaymo/grocery_shop/blob/main/readme/IMG1.png" alt="واجهة المستخدم"> -->
+  <img src="https://github.com/iamaymo/Restaurant-java/blob/main/java%20project.jpg" alt="واجهة المستخدم">
 </p>
 
 ## للتواصل
